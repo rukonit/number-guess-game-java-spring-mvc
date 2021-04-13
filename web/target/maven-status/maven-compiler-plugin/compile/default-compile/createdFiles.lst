@@ -1,0 +1,10 @@
+com\numberguess\interceptor\RequestInterceptor.class
+com\numberguess\until\GameMappings.class
+com\numberguess\until\AttributeNames.class
+com\numberguess\config\WebConfig.class
+com\numberguess\service\GameServiceImpl.class
+com\numberguess\until\thymeleaf\DecoupledLogicSetup.class
+com\numberguess\WebMain.class
+com\numberguess\service\GameService.class
+com\numberguess\until\ViewNames.class
+com\numberguess\controller\GameController.class

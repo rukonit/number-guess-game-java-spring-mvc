@@ -1,0 +1,10 @@
+<thlogic>
+    <attr sel="#headerId" th:replace="~{fragments/head :: headFragment}"/>
+    <attr sel="#game-title" th:text="#{game.title}"/>
+    <attr sel="#game-over" th:text="#{game.over}"/>
+    <attr sel="#result-message" th:text="${resultMessage}"/>
+    <attr sel="#restart" th:text="#{game.playagain}" th:href="restart"/>
+    <attr sel="#home" th:text="#{game.home}" th:href="'/'"/>
+    <attr sel="#footerId"  th:replace="~{fragments/footer :: footerFragment}"/>
+
+</thlogic>

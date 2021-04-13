@@ -1,0 +1,7 @@
+<thlogic>
+    <attr sel="#footerId" th:fragment="footerFragment"/>
+    <attr sel="#language" th:text="#{game.language}"/>
+<!--    <attr sel="#bn" th:href="${bn}"/>-->
+<!--    <attr sel="#en" th:href="${en}"/>-->
+    <attr sel="#game-createdby" th:text="#{game.createdby}"/>
+</thlogic>
