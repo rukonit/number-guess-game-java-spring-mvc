@@ -1,4 +1,4 @@
-## number-guess-game-java-spring-mvc
+## number-guess-game-java-spring-mvc Full Stack Application
 This app is an number guessing full-stack game application. The application has three modules Core Module, Console Module, and Web Module. Console and Web module imports classes from core module to run the application. 
 
 ## Technology Used
