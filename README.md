@@ -11,4 +11,4 @@ This app is an number guessing full-stack game application. The application has 
 7. Bootstrap
 
 ## How to Run
-1. Import the application in Intellij, Eclipse or NetBeans. To run console version, run Main.class in Console Module. To run the web version, run Main.class in Web Module and then browse to http://location:8080.
+1. Browse to https://guess-the-number-game-rukon.herokuapp.com to use the application. Click on play to start. Enter a number between the given range. Enter a second number.
